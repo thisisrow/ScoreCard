@@ -51,22 +51,22 @@ function UserPage() {
                 </nav>
             </section>
             
-            <section className="header16 cid-u3w2puQScQ mbr-fullscreen mbr-parallax-background" id="hero-17-u3w2puQScQ">
-                <div className="mbr-overlay" style={{ opacity: 0.3, backgroundColor: 'rgb(0, 0, 0)' }}></div>
-                <div className="container-fluid">
-                    <div className="row">
-                        <div className="content-wrap col-12 col-md-10">
-                            <h1 className="mbr-section-title mbr-fonts-style mbr-white mb-4 display-1">
-                                <strong>Game On</strong>
-                            </h1>
-                            <p className="mbr-fonts-style mbr-text mbr-white mb-4 display-7">Unleash the Power of Scores - Where Champions
-                                Rise and Losers... Well, Lose!</p>
-                            <div className="mbr-section-btn"><a className="btn btn-white-outline display-7" href="#events-1-u3w2puSUNs">Get
-                                started</a></div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+           <section className="header16 cid-u3w2puQScQ mbr-fullscreen mbr-parallax-background" id="hero-17-u3w2puQScQ" style={{backgroundImage: `url('https://res.cloudinary.com/db1nsxnit/image/upload/v1745253857/sports-tools_l0wq4h.jpg')`}}>
+ <div className="mbr-overlay" style={{ opacity: 0.3, backgroundColor: 'rgb(0, 0, 0)' }}></div>
+ <div className="container-fluid">
+  <div className="row">
+   <div className="content-wrap col-12 col-md-10">
+    <h1 className="mbr-section-title mbr-fonts-style mbr-white mb-4 display-1">
+     <strong>Game On</strong>
+    </h1>
+    <p className="mbr-fonts-style mbr-text mbr-white mb-4 display-7">Unleash the Power of Scores - Where Champions
+     Rise and Losers... Well, Lose!</p>
+    <div className="mbr-section-btn"><a className="btn btn-white-outline display-7" href="#events-1-u3w2puSUNs">Get
+      started</a></div>
+   </div>
+  </div>
+ </div>
+</section>
 
             <section className="list05 cid-u3w2puQ76k" id="faq-3-u3w2puQ76k">
                 <div className="container">
